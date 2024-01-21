@@ -78,3 +78,8 @@ done
 チャンネル設定で使用したdvbv5の設定ファイルをmirakurunのコンテナ内で参照できるようにする  
 mirakurunのチューナーの設定のコマンドにて、使用するコンフィグを参照できるようにしたコンフィグファイルを指定するように変更  
 以上ができればチャンネルスキャンを実行すると視聴可能なチャンネルが取得できるはず
+
+## 参考
+
+[https://tetsu31415.hatenablog.com/entry/2023/11/06/001832](https://tetsu31415.hatenablog.com/entry/2023/11/06/001832)
+[https://www.thun-techblog.com/index.php/blog/t230c-linux-jcom/](https://www.thun-techblog.com/index.php/blog/t230c-linux-jcom/)
